@@ -1,4 +1,4 @@
 package com.lucasNeris.qrcode.generetor.dto;
 
-public class QrcodeGenerateRequest(String text) {
+public record QrcodeGenerateRequest(String text) {
 }
