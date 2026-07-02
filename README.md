@@ -16,7 +16,7 @@ O desenvolvimento poderá ser retomado futuramente, quando houver acesso aos rec
 * Maven
 * Git
 * GitHub
-
+* spring boot
 ## Objetivo
 
 Este projeto faz parte dos meus estudos em desenvolvimento Back-end com Java e tem como objetivo praticar a criação de aplicações, organização de código e integração com serviços externos.
